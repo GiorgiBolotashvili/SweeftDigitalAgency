@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ref\ArrayNotContains.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\bin\Debug\net5.0\ArrayNotContains.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ref\ArrayNotContains.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ArrayNotContains\ArrayNotContains\obj\Debug\net5.0\ArrayNotContains.genruntimeconfig.cache

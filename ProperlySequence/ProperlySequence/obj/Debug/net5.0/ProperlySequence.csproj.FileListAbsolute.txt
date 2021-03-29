@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ref\ProperlySequence.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\bin\Debug\net5.0\ProperlySequence.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ref\ProperlySequence.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ProperlySequence\ProperlySequence\obj\Debug\net5.0\ProperlySequence.genruntimeconfig.cache

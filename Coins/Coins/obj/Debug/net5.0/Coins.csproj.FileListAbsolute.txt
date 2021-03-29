@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\ref\Coins.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\bin\Debug\net5.0\Coins.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\ref\Coins.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\Coins\Coins\obj\Debug\net5.0\Coins.genruntimeconfig.cache

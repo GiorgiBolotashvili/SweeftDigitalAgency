@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
