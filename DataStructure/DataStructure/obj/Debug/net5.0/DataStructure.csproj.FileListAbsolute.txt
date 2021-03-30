@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.genruntimeconfig.cache
