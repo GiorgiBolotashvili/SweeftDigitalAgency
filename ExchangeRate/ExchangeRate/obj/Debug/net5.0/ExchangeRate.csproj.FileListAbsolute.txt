@@ -1,0 +1,16 @@
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.exe
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.deps.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.runtimeconfig.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.runtimeconfig.dev.json
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ref\ExchangeRate.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\bin\Debug\net5.0\ExchangeRate.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.csprojAssemblyReference.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.AssemblyInfo.cs
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ref\ExchangeRate.dll
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.pdb
+D:\Coding\C#Workspace\Sweeft Digital Agency\ExchangeRate\ExchangeRate\obj\Debug\net5.0\ExchangeRate.genruntimeconfig.cache
